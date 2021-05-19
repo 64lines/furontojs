@@ -1,6 +1,6 @@
 # Welcome to FurontoJS - the 1K front-end library!
 
-FurontoJS is a minimalistic front-end library that runs on the browser without the need to install any NodeJS whatsoever, it is a kind of wrap around HTML that allows you to create teeny tiny components in a flash.
+FurontoJS is a minimalistic front-end library that runs on the browser, it is a kind of wrap around HTML that allows you to create teeny tiny components in a flash.
 
 The only thing you need to get started is to clone this repository and then add all your code on the `src.js` file, just like that.
 
