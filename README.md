@@ -6,7 +6,7 @@ The only thing you need to get started is to clone this repository and then add 
 
 You can create a simple component in the following fashion:
 ```javascript
-const Title = furonto.create('h1', { class: 'title', innerText: 'Hello Furonto!'})
+const Title = furonto.create('h1', { class: 'title', innerText: 'Hello Furonto!' })
 furonto.registerComponent(Title);
 ```
 
@@ -15,7 +15,7 @@ furonto.registerComponent(Title);
 You can have a more complicated approach like this one, with the native `div` and `link` components:
 
 ```javascript
-const Title = furonto.create('h1', { class: 'title', innerText: 'Hello Furonto!'})
+const Title = furonto.create('h1', { class: 'title', innerText: 'Hello Furonto!' })
 
 const LinkContainer = furonto.div({ class: 'link-container'}, 
   furonto.link({ href: 'https://github.com/64lines/furontojs', target: '_blank', innerText: 'Go to furonto page' })
