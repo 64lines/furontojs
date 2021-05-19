@@ -1,4 +1,4 @@
-# Welcome to FurontoJS - the 1K component-based javascript library!
+# Welcome to FurontoJS - The 1K component-based javascript library!
 
 FurontoJS is a minimalistic front-end library that runs on the browser, it is a kind of wrap around HTML that allows you to create teeny tiny components in a flash.
 
