@@ -30,4 +30,3 @@ const furonto = {
     main.append(component)
   }
 };
-  
