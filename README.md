@@ -30,6 +30,6 @@ furonto.registerComponent(MainDiv);
 ```
 ![image](./img/furonto-second-image.png)
 
-As you can see, the sky is the limit. You can combinate different components to have complicated websites or add them on different files to have a more modular design, you can also extend the FurontoJS features by editing the `furonto.js` file.
+As you can see, the sky is the limit. You can combine different components to have complicated websites or add them on different files to have a more modular design, you can also extend the FurontoJS features by editing the `furonto.js` file.
 
 Enjoy!
